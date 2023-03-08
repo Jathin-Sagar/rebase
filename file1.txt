@@ -1,2 +1,3 @@
 first message to rebase in file1
+second message to rebase in file1
 
