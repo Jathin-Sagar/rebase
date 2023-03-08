@@ -1,0 +1,2 @@
+first message to rebase in file1
+
